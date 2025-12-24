@@ -1,0 +1,7 @@
+{
+  "name": "24/7 Hospital & Lab Report Tool",
+  "description": "A comprehensive hospital management and service portal featuring an AI-powered lab report generator with Word export capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
